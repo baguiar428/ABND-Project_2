@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Score Keeper ABND</string>
+    <!--Buttons Text-->
+    <string name="goalTxt">Goal!</string>
+    <string name="addOneTxt">+</string>
+    <string name="resetTxt">Reset</string>
+
+    <!--Label/Description Text-->
+    <string name="homeTxt">Home</string>
+    <string name="awayTxt">Away</string>
+    <string name="statsTxt">Statistics</string>
+    <string name="foulsTxt">Fouls Committed</string>
+    <string name="sogTxt">Shots on Goal</string>
+    <string name="penaltyTxt">Penalties Taken</string>
+
+    <!--Stat/Score Initial Value Text-->
+    <string name="initialCount">0</string>
+</resources>
